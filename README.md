@@ -1,4 +1,4 @@
-\# HarborWing Air Database \& Data Generator
+ HarborWing Air Database \& Data Generator
 
 
 
@@ -8,11 +8,11 @@ This project implements a complete relational database schema and synthetic data
 
 \## Deliverables Included
 
-\* `generate\_data.py` - Python script using `Faker` to populate all 11 tables.
+ `generate_data.py` - Python script using `Faker` to populate all 11 tables.
 
-\* `harborwing\_eer\_diagram.png` - High-resolution export of the EER Diagram.
+ `harborwing_eer_diagram.png` - High-resolution export of the EER Diagram.
 
-\* `harborwing\_eer\_diagram.mwb` - Native MySQL Workbench database model\[cite: 3].
+ `harborwing_eer_diagram.mwb` - Native MySQL Workbench database model
 
 
 
